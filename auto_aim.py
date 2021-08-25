@@ -26,8 +26,14 @@ while SB==1:
         break 
 
 
-# x, y = pag.position()
-# print((x,y))
+# SB=0
+# while SB==0:
+#     if keyboard.is_pressed('F4'):
+#         x, y = pag.position()
+#         print((x,y))
+#     if keyboard.is_pressed('F3'):
+#         SB=0
+#         break
 
 
 # SB=0
