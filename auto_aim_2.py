@@ -34,7 +34,7 @@ while SB==1:
 # SB=0
 # while SB==0:
 #     if keyboard.is_pressed('F4'):
-#         screen = ImageGrab.grab() # 화면 캡쳐
+#         screen = ImageGrab.grab() 
 #         print(screen.getpixel(pag.position()))
 #     if keyboard.is_pressed('F3'):
 #         SB=0
